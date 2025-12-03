@@ -19,7 +19,22 @@ __pycache__/
 *.temp
 *.out
 
-
+### Data ##
+data/
+*.parquet
+*.feather
+*.fgb
+*.csv
+*.tif
+*.zip
+*.geojson
+*.json
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
 
 # Private Notebooks
 gss25/
