@@ -1,0 +1,25 @@
+### macOS ###
+.DS_Store
+
+### Jupyter ###
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+### Logs ###
+*.log
+
+### Temporary files ###
+*.tmp
+*.temp
+*.out
+
+
+
+# Private Notebooks
+gss25/
